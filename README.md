@@ -1,4 +1,3 @@
-<div align="center">
  
 <h3>
   Welcome to Hery's profile!
@@ -8,8 +7,6 @@
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Make+each+code+your+masterpiece."></a>
 </p>
-
-Here are some ideas to get you started:
 
 - :earth_americas: Brazilian, 29 yr
 - 🔭 I’m currently working as DevOps Engineer at Hurb
