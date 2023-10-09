@@ -9,9 +9,9 @@
 </p>
 
 - :earth_americas: Brazilian, 29 yr
-- 🔭 I’m currently working as DevOps Engineer at Hurb
-- 🌱 I’m currently learning NodeJS and Golang language
-- :gear: I'm always improving on Platform Engineering and SRE 
+- 🔭 I’m currently working as Cloud Engineer at StackSpot
+- 🌱 I’m currently learning Python and Golang language
+- :gear: I'm always improving on Platform Engineering and SRE stuffs.
 
 
 
